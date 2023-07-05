@@ -11534,7 +11534,7 @@ body.preview-page {
 }
 
 .iframe-preview-mobile {
-    width: 410px;
+    width: 100%;
     left: 50%;
     transform: translateX(-50%)
 }
